@@ -13,4 +13,7 @@ namespace MyFirstApp
     {
         
     }
+}   class myclass2
+{
+
 }
