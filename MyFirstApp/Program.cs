@@ -11,6 +11,6 @@ namespace MyFirstApp
     }
     class MyClass
     {
-        Console.WriteLine("Hello World!");
+        
     }
 }
